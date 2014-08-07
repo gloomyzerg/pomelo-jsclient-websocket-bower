@@ -1,0 +1,16 @@
+{
+  "name": "pomelo-jsclient-websocket",
+  "version": "0.0.1",
+  "authors": [
+    "gloomyzerg <gloomyzerg@126.com>"
+  ],
+  "description": "pomelo-jsclient-websocket",
+  "main": "./lib/pomelo-client.js",
+  "keywords": [
+    "pomelo",
+    "jsclient",
+    "websocket"
+  ],
+  "license": "MIT",
+  "homepage": "http://pomelo.netease.com/"
+}
